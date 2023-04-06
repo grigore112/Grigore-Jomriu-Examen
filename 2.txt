@@ -1,0 +1,1 @@
+Sunteti managerul unui proiect software care are scop elaborarea unei aplicatii ce ofera acces la orarul Centrului de Excelenta  in Informatica si Tehnologii Informationale.In baza proiectului realizati urmatoarele sarcini:
